@@ -1,0 +1,11 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "\"new project start with backend of youtube\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rutba ritesh",
+  "license": "ISC"
+}
